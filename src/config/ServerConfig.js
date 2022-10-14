@@ -4,12 +4,12 @@ import utility from 'src/utility/utility'
 const prod = {
   url: {
     // API_URL: 'http://35.224.190.237:2526',
-    API_URL: 'http://127.0.0.1:5000'
+    API_URL: 'https://sigcen.herokuapp.com/'
   },
 }
 const dev = {
   url: {
-    API_URL: 'http://127.0.0.1:5000',
+    API_URL: 'https://sigcen.herokuapp.com/',
   },
 }
 
